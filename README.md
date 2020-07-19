@@ -1,10 +1,10 @@
 ### Hi I'm Kalaivani 
 
-:computer: Reach me for a iPhone developer with creative ideas 
+✨ Reach me for a iPhone developer with creative ideas ✨
 
 :briefcase: **iPhone Mobile App Developer**  
 
-### Expertise :
+### 🚀 Expertise :
 ----------------------------------------------------------------------------------
 * Swift
 * Objective C
@@ -16,7 +16,7 @@
 * Payment Gateway
 * Project Management
 
-### Learning:
+### 🌱 Learning:
 -----------------------------------------------------------------------------------
 * Design Pattern (VIPER)
 * CI/CD
