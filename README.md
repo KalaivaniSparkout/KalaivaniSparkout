@@ -5,7 +5,7 @@
 :briefcase: **iPhone Mobile App Developer**  
 
 ### 🚀 Expertise :
-----------------------------------------------------------------------------------
+
 * Swift
 * Objective C
 * Design Pattern (MVC, MVVM, MVVMC)
