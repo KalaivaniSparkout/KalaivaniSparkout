@@ -17,13 +17,13 @@
 * Project Management
 
 ### 🌱 Learning:
------------------------------------------------------------------------------------
+
 * Design Pattern (VIPER)
 * CI/CD
 * UI Test Case
 
 ### 📫 How to reach me:
------------------------------------------------------------------------------------
+- - - - - - - - - - - -
 * Gmail - kalaivanir392@gmail.com
 * LinkedIn - https://www.linkedin.com/in/kalaivani-ramanathan-0ab558a1/
 * Instagram - https://www.instagram.com/ramanathankalaivani/
